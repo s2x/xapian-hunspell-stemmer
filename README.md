@@ -1,2 +1,2 @@
 # xapian-hunspell-stemmer
-Hunspell stemmer for xapian
+Hunspell stemmer for xapian search engine.
