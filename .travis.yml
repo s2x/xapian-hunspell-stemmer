@@ -4,7 +4,7 @@ compiler:
 script:
 - mkdir build
 - cd build
-- cmake && make
+- cmake .. && make
 sudo: required
 dist: trusty
 before_install:
